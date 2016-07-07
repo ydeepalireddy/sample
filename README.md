@@ -1,2 +1,2 @@
 # sample
-just a sample testing
+i was just testing git.just a sample testing
